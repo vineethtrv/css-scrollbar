@@ -1,2 +1,2 @@
-# css-scrollbar
+# CSS Scrollbar
 Collection of CSS Scrollbar
